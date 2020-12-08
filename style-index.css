@@ -64,6 +64,15 @@ div.sections div.center p {
 i {
     padding: 8px;
 }
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+footer p {
+    padding: 5px;
+}
 /* Extra-small devices-landscape phones */
 @media (min-width: 350px) {
     body {
